@@ -1,1 +1,1 @@
-{"versionCode": 26, "versionName": "1.0", "apk": "homez-screen-26.apk", "sha256": "dba0b9028f466a7152f5d98998244fbe8e0354785a4a985f1af42f6bd588ec75", "notes": "HomeZ Screen 1.0"}
+{"versionCode": 27, "versionName": "1.1", "apk": "homez-screen-27.apk", "sha256": "5336fabec4eb78a3be7476b768470a645cee02eaab3a8b8bc2314e98685d202b", "notes": "Adds TCL / Google TV support; keeps the TV cleanup applied after restarts"}
