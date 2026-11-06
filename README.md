@@ -11,9 +11,9 @@ The newest build of [HomeZ Screen](https://github.com/TaHo13), a custom home scr
 1. On the TV, open the **Play Store** and install **Downloader** (free, by AFTVnews).
 2. Open Downloader and type this link into its address box, then choose **Go**:
    `https://raw.githubusercontent.com/TaHo13/HomeZ-Screen-Releases/main/homez-screen.apk`
-3. When the TV says it can't install apps from Downloader, choose **Settings**, turn Downloader **on**, press Back, then choose **Install**.
+3. When the TV says it can't install apps from Downloader, choose **Settings**, turn Downloader **on**, press Back, then choose **Install**. If Google Play Protect asks about HomeZ (it isn't from the Play Store), choose **Install anyway**.
 4. Choose **Open**. HomeZ walks you through the rest, about five minutes:
-   - turning on **USB debugging** (Settings → System → About → press OK on *Android TV OS build* 7 times, then System → Developer options → USB debugging), and choosing **Always allow** when the TV asks;
+   - turning on **USB debugging** (Settings → System → About → press OK on *Android TV OS build* 7 times, then System → Developer options → USB debugging; HomeZ's **Open About** and **Open Developer options** buttons take you straight there), and choosing **Always allow** when the TV asks;
    - making HomeZ the **home screen** (Google's home screen is switched off, not removed);
    - an optional **tidy-up** of the TV maker's ad and tracking apps (onn., Hisense and TCL) and faster animations;
    - **ad blocking** for the whole TV with AdGuard DNS (Private DNS), which you can turn off in Customize → About HomeZ.
